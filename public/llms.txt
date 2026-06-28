@@ -1,0 +1,105 @@
+# The movie site — Generative Engine Optimization Map
+
+> An online store specializing in rare and hard-to-find films, catering to dedicated cinephiles and collectors who seek out obscure, cult, or out-of-print movies. The business fills a niche gap in the market by offering films that are difficult to locate through mainstream channels, appealing to passionate movie enthusiasts and collectors.
+
+---
+
+## Pages
+
+### בית
+https://the-movie-site-772cdaca.zappy5.app
+חנות הסרטים המובילה בישראל לאיתור יצירות נדירות, סרטי פולחן ומהדורות שאזלו מהמדפים. היכנסו עכשיו והתחילו לאסוף את האוצרות הנסתרים של עולם הקולנוע!
+
+### תכונות
+https://the-movie-site-772cdaca.zappy5.app/features
+גלו איך אנחנו מאתרים עבורכם סרטים אבודים ומהדורות אספנות ייחודיות. כניסה לעולם של איתור סרטים נדירים, הזמנות מיוחדות וקטלוג שמתעדכן ללא הפסקה. התחילו לאסוף עוד היום!
+
+### אודות
+https://the-movie-site-772cdaca.zappy5.app/about
+הכירו את צוות חובבי הקולנוע שהפך אובססיה לקולנוע נשכח לחנות אונליין מובילה. אנחנו חיים ונושמים סרטי פולחן, מהדורות מוגבלות ואוצרות וידאו. הצטרפו למסע שלנו!
+
+### צור קשר
+https://the-movie-site-772cdaca.zappy5.app/contact
+מחפשים סרט ספציפי שנעלם מהעולם? צרו איתנו קשר ונצא למצוד קולנועי עבורכם. המומחים שלנו כאן כדי לעזור לכם להשלים את האוסף הנדיר שלכם. כתבו לנו עכשיו!
+
+### Products
+https://the-movie-site-772cdaca.zappy5.app/products
+המוצרים שלנו - The movie site
+
+### Cart
+https://the-movie-site-772cdaca.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://the-movie-site-772cdaca.zappy5.app/checkout
+תשלום
+
+### Login
+https://the-movie-site-772cdaca.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://the-movie-site-772cdaca.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://the-movie-site-772cdaca.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://the-movie-site-772cdaca.zappy5.app/product/:slug
+פרטי המוצר - The movie site
+
+### Category
+https://the-movie-site-772cdaca.zappy5.app/category/:slug
+מוצרים - The movie site
+
+### תודה על פנייתך
+https://the-movie-site-772cdaca.zappy5.app/thank-you
+The movie site - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://the-movie-site-772cdaca.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://the-movie-site-772cdaca.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://the-movie-site-772cdaca.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About The movie site
+An online store specializing in rare and hard-to-find films, catering to dedicated cinephiles and collectors who seek out obscure, cult, or out-of-print movies. The business fills a niche gap in the market by offering films that are difficult to locate through mainstream channels, appealing to passionate movie enthusiasts and collectors.
+
+## Target Audience
+- חובבי קולנוע המחפשים סרטים נדירים וקשים למציאה
+- חובבי סרטים נדירים
+- היסטוריוני קולנוע
+- אספני סרטים עצמאיים
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://the-movie-site-772cdaca.zappy5.app/sitemap.xml
+- Robots: https://the-movie-site-772cdaca.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://the-movie-site-772cdaca.zappy5.app/llms-full.txt
+- Products (JSON): https://the-movie-site-772cdaca.zappy5.app/products.json
+- Products (Google Merchant RSS): https://the-movie-site-772cdaca.zappy5.app/product-feed.xml
