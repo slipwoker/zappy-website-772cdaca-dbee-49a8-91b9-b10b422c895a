@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://the-movie-site-772cdaca.zappy5.app
+https://example.com
 חנות הסרטים המובילה בישראל לאיתור יצירות נדירות, סרטי פולחן ומהדורות שאזלו מהמדפים. היכנסו עכשיו והתחילו לאסוף את האוצרות הנסתרים של עולם הקולנוע!
 
 ### תכונות
-https://the-movie-site-772cdaca.zappy5.app/features
+https://example.com/features
 גלו איך אנחנו מאתרים עבורכם סרטים אבודים ומהדורות אספנות ייחודיות. כניסה לעולם של איתור סרטים נדירים, הזמנות מיוחדות וקטלוג שמתעדכן ללא הפסקה. התחילו לאסוף עוד היום!
 
 ### אודות
-https://the-movie-site-772cdaca.zappy5.app/about
+https://example.com/about
 הכירו את צוות חובבי הקולנוע שהפך אובססיה לקולנוע נשכח לחנות אונליין מובילה. אנחנו חיים ונושמים סרטי פולחן, מהדורות מוגבלות ואוצרות וידאו. הצטרפו למסע שלנו!
 
 ### צור קשר
-https://the-movie-site-772cdaca.zappy5.app/contact
+https://example.com/contact
 מחפשים סרט ספציפי שנעלם מהעולם? צרו איתנו קשר ונצא למצוד קולנועי עבורכם. המומחים שלנו כאן כדי לעזור לכם להשלים את האוסף הנדיר שלכם. כתבו לנו עכשיו!
 
 ### Products
-https://the-movie-site-772cdaca.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - The movie site
 
 ### Cart
-https://the-movie-site-772cdaca.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://the-movie-site-772cdaca.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://the-movie-site-772cdaca.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://the-movie-site-772cdaca.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://the-movie-site-772cdaca.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://the-movie-site-772cdaca.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - The movie site
 
 ### Category
-https://the-movie-site-772cdaca.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - The movie site
 
 ### תודה על פנייתך
-https://the-movie-site-772cdaca.zappy5.app/thank-you
+https://example.com/thank-you
 The movie site - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://the-movie-site-772cdaca.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://the-movie-site-772cdaca.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://the-movie-site-772cdaca.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://the-movie-site-772cdaca.zappy5.app/sitemap.xml
-- Robots: https://the-movie-site-772cdaca.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://the-movie-site-772cdaca.zappy5.app/llms-full.txt
-- Products (JSON): https://the-movie-site-772cdaca.zappy5.app/products.json
-- Products (Google Merchant RSS): https://the-movie-site-772cdaca.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
